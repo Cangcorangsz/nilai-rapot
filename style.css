@@ -1,0 +1,59 @@
+html {
+    background-color: #E4E4D0;
+}
+
+body {
+    width: 70%;
+    margin: 2% auto;
+    border: solid black 3px;
+    background-color: #FFEEF4;
+}
+
+header {
+    text-align: center;
+    margin: 1% auto;
+}
+
+h1, h2 {
+    margin: 0;
+}
+
+.data-diri {
+    margin-left: 1%;
+}
+
+.data-diriA {
+    font-weight: bold;
+}
+
+hr {
+    color: black;
+    width: 90%;
+    border-style: dashed;
+
+}
+
+.header-bawah {
+    margin: 5% auto 2% auto;
+    text-align: center;
+}
+
+table, td {
+    border: solid 1px black;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.text-mid {
+    text-align: center;
+}
+
+.tabel-tengah {
+    margin: 1% auto;
+}
+
+.inden {
+    text-indent: 15px;
+}
