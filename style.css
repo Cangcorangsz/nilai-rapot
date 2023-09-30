@@ -1,12 +1,12 @@
 html {
-    background-color: #E4E4D0;
+    background-color: #F1EFEF;
 }
 
 body {
     width: 70%;
     margin: 2% auto;
     border: solid black 3px;
-    background-color: #FFEEF4;
+    background-color: #CCC8AA;
 }
 
 header {
@@ -56,4 +56,20 @@ table, td {
 
 .inden {
     text-indent: 15px;
+}
+
+/* Responsive */
+
+@media (max-width: 426px) {
+
+    body {
+        width: 95%;
+    }
+}
+
+@media (min-width: 1439px) {
+
+    td {
+        font-size: 150%;
+    }
 }
