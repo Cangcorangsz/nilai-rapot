@@ -1,12 +1,13 @@
 html {
-    background-color: #F1EFEF;
+    background-color: #d4d4d4;
 }
 
 body {
     width: 70%;
     margin: 2% auto;
     border: solid black 3px;
-    background-color: #CCC8AA;
+    background-color: rgb(236, 236, 236);
+    border-radius: 10px;
 }
 
 header {
